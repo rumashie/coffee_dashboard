@@ -1,0 +1,599 @@
+Country,Year,Thousand Units (Bags of 60 kg)
+USA,2019,26865.66
+USA,2018,26514.33
+USA,2017,26183
+USA,2016,25243
+USA,2015,24438
+USA,2014,23767
+USA,2013,23417
+USA,2012,22231.66
+USA,2011,22043.89
+USA,2010,21783.46
+USA,2009,21435.97
+USA,2008,21652.43
+USA,2007,21033.27
+USA,2006,20667.38
+USA,2005,20997.55
+USA,2004,20972.76
+USA,2003,20192.68
+USA,2002,19124.51
+USA,2001,19553.65
+USA,2000,18745.56
+USA,1999,19359.43
+USA,1998,18603.8
+USA,1997,17795.45
+USA,1996,18059
+USA,1995,17362.87
+USA,1994,17326.1
+USA,1993,19217.14
+USA,1992,18290.45
+USA,1991,18661.18
+USA,1990,18297.62
+Brazil,2019,22644
+Brazil,2018,22250
+Brazil,2017,21997
+Brazil,2016,21225
+Brazil,2015,20508
+Brazil,2014,20333
+Brazil,2013,20085
+Brazil,2012,20330
+Brazil,2011,19720
+Brazil,2010,19132
+Brazil,2009,18390
+Brazil,2008,17660
+Brazil,2007,17110
+Brazil,2006,16331
+Brazil,2005,15538
+Brazil,2004,14946
+Brazil,2003,14200
+Brazil,2002,13750
+Brazil,2001,13590
+Brazil,2000,13200
+Brazil,1999,12700
+Brazil,1998,12200
+Brazil,1997,11500
+Brazil,1996,11000
+Brazil,1995,10100
+Brazil,1994,9300
+Brazil,1993,9100
+Brazil,1992,8900
+Brazil,1991,8500
+Brazil,1990,8200
+Japan,2019,7903.48
+Japan,2018,7833.6
+Japan,2017,7742
+Japan,2016,7872
+Japan,2015,7695
+Japan,2014,7494
+Japan,2013,7435
+Japan,2012,7130.95
+Japan,2011,7014.85
+Japan,2010,7192.4
+Japan,2009,7130.4
+Japan,2008,7064.69
+Japan,2007,7282.08
+Japan,2006,7268.19
+Japan,2005,7127.95
+Japan,2004,7116.98
+Japan,2003,6769.77
+Japan,2002,6874.7
+Japan,2001,6935.6
+Japan,2000,6625.66
+Japan,1999,6272.9
+Japan,1998,6051.95
+Japan,1997,5968.17
+Japan,1996,5837.95
+Japan,1995,6116.01
+Japan,1994,5973.03
+Japan,1993,5739.84
+Japan,1992,5132.43
+Japan,1991,5808.97
+Japan,1990,5059.85
+Indonesia,2019,4957
+Indonesia,2018,4800
+Indonesia,2017,4750
+Indonesia,2016,4650
+Indonesia,2015,4550
+Indonesia,2014,4417
+Indonesia,2013,4250
+Indonesia,2012,3900
+Indonesia,2011,3667
+Indonesia,2010,3333
+Indonesia,2009,3333
+Indonesia,2008,3333
+Indonesia,2007,3333
+Indonesia,2006,2833
+Indonesia,2005,2500
+Indonesia,2004,2000
+Indonesia,2003,1833
+Indonesia,2002,1779
+Indonesia,2001,2000
+Indonesia,2000,1676
+Indonesia,1999,1626
+Indonesia,1998,1578
+Indonesia,1997,1532
+Indonesia,1996,1486
+Indonesia,1995,1443
+Indonesia,1994,1400
+Indonesia,1993,1359
+Indonesia,1992,1319
+Indonesia,1991,1280
+Indonesia,1990,1242
+Russia ,2019,4414.31
+Russia ,2018,4233.5
+Russia ,2017,4512
+Russia ,2016,4439
+Russia ,2015,3846
+Russia ,2014,4021
+Russia ,2013,3648
+Russia ,2012,3696.16
+Russia ,2011,3754.19
+Russia ,2010,3700.28
+Russia ,2009,3112.87
+Russia ,2008,3632.58
+Russia ,2007,3977.44
+Russia ,2006,3220.81
+Russia ,2005,3184.76
+Russia ,2004,3076.58
+Russia ,2003,3678.98
+Russia ,2002,3451.43
+Russia ,2001,3032.1
+Russia ,2000,1863.1
+Russia ,1999,1351.71
+Russia ,1998,1647.07
+Russia ,1997,1857.46
+Russia ,1996,1063.12
+Russia ,1995,1650.29
+Russia ,1994,1712.21
+Russia ,1993,1794.73
+Russia ,1992,1377.16
+Ethiopia,2019,3878
+Ethiopia,2018,3800
+Ethiopia,2017,3750
+Ethiopia,2016,3725
+Ethiopia,2015,3700
+Ethiopia,2014,3625
+Ethiopia,2013,3550
+Ethiopia,2012,3400
+Ethiopia,2011,3383
+Ethiopia,2010,3383
+Ethiopia,2009,3210
+Ethiopia,2008,3048
+Ethiopia,2007,2894
+Ethiopia,2006,2748
+Ethiopia,2005,2609
+Ethiopia,2004,2478
+Ethiopia,2003,2353
+Ethiopia,2002,2234
+Ethiopia,2001,2121
+Ethiopia,2000,2014
+Ethiopia,1999,1912
+Ethiopia,1998,1816
+Ethiopia,1997,1724
+Ethiopia,1996,1637
+Ethiopia,1995,1555
+Ethiopia,1994,1476
+Ethiopia,1993,1402
+Ethiopia,1992,1331
+Ethiopia,1991,1264
+Ethiopia,1990,1200
+Philippines,2019,3417
+Philippines,2018,3300
+Philippines,2017,3180
+Philippines,2016,3030
+Philippines,2015,3000
+Philippines,2014,2800
+Philippines,2013,2550
+Philippines,2012,2325
+Philippines,2011,2175
+Philippines,2010,2125
+Philippines,2009,1820
+Philippines,2008,1720
+Philippines,2007,1060
+Philippines,2006,1060
+Philippines,2005,1040
+Philippines,2004,1020
+Philippines,2003,917
+Philippines,2002,829
+Philippines,2001,821
+Philippines,2000,820
+Philippines,1999,862
+Philippines,1998,810
+Philippines,1997,853
+Philippines,1996,831
+Philippines,1995,810
+Philippines,1994,790
+Philippines,1993,770
+Philippines,1992,750
+Philippines,1991,750
+Philippines,1990,720
+Vietnam,2019,2780.62
+Vietnam,2018,2700
+Vietnam,2017,2500
+Vietnam,2016,2400
+Vietnam,2015,2300
+Vietnam,2014,2200
+Vietnam,2013,2000
+Vietnam,2012,1825
+Vietnam,2011,1650
+Vietnam,2010,1583
+Vietnam,2009,1208
+Vietnam,2008,1021
+Vietnam,2007,938
+Vietnam,2006,917
+Vietnam,2005,800
+Vietnam,2004,696.36
+Vietnam,2003,606.85
+Vietnam,2002,518.84
+Vietnam,2001,460.87
+Vietnam,2000,401.63
+Vietnam,1999,350
+Vietnam,1998,331.52
+Vietnam,1997,314.06
+Vietnam,1996,297.52
+Vietnam,1995,281.85
+Vietnam,1994,267
+Vietnam,1993,267
+Vietnam,1992,250
+Vietnam,1991,230
+Vietnam,1990,150
+Mexico,2019,2477
+Mexico,2018,2450
+Mexico,2017,2400
+Mexico,2016,2360
+Mexico,2015,2329
+Mexico,2014,2347
+Mexico,2013,2321
+Mexico,2012,2354
+Mexico,2011,2354
+Mexico,2010,2354
+Mexico,2009,2200
+Mexico,2008,2200
+Mexico,2007,2200
+Mexico,2006,2000
+Mexico,2005,1725
+Mexico,2004,1500
+Mexico,2003,1500
+Mexico,2002,1500
+Mexico,2001,1500
+Mexico,2000,1305
+Mexico,1999,1150
+Mexico,1998,1108
+Mexico,1997,1201
+Mexico,1996,1235
+Mexico,1995,1179
+Mexico,1994,1020
+Mexico,1993,1070
+Mexico,1992,1300
+Mexico,1991,1200
+Mexico,1990,1374
+Colombia,2019,1831.15
+Colombia,2018,1791.41
+Colombia,2017,1793.27
+Colombia,2016,1736.44
+Colombia,2015,1720.37
+Colombia,2014,1665.45
+Colombia,2013,1617.02
+Colombia,2012,1514.24
+Colombia,2011,1435.07
+Colombia,2010,1311.02
+Colombia,2009,1274.48
+Colombia,2008,1290.5
+Colombia,2007,1280.92
+Colombia,2006,1194.63
+Colombia,2005,1209
+Colombia,2004,1223
+Colombia,2003,1237
+Colombia,2002,1252
+Colombia,2001,1267
+Colombia,2000,1282
+Colombia,1999,1297
+Colombia,1998,1312
+Colombia,1997,1328
+Colombia,1996,1343
+Colombia,1995,1359
+Colombia,1994,1375
+Colombia,1993,1339
+Colombia,1992,1303
+Colombia,1991,1269
+Colombia,1990,1235
+Venezuela,2019,1577.76
+Venezuela,2018,1550
+Venezuela,2017,1600
+Venezuela,2016,1650
+Venezuela,2015,1650
+Venezuela,2014,1650
+Venezuela,2013,1650
+Venezuela,2012,1650
+Venezuela,2011,1650
+Venezuela,2010,1650
+Venezuela,2009,1650
+Venezuela,2008,1649.26
+Venezuela,2007,1582.33
+Venezuela,2006,1518.11
+Venezuela,2005,1456.5
+Venezuela,2004,1397.39
+Venezuela,2003,1340.68
+Venezuela,2002,1286.27
+Venezuela,2001,1234.07
+Venezuela,2000,1183.99
+Venezuela,1999,1135.94
+Venezuela,1998,1089.84
+Venezuela,1997,1045.61
+Venezuela,1996,1003.18
+Venezuela,1995,962.46
+Venezuela,1994,923.4
+Venezuela,1993,885.93
+Venezuela,1992,849.97
+Venezuela,1991,815.48
+Venezuela,1990,782.39
+India,2019,1494.88
+India,2018,1475
+India,2017,1470
+India,2016,1440
+India,2015,1450
+India,2014,1430
+India,2013,1400
+India,2012,1375
+India,2011,1325
+India,2010,1325
+India,2009,1325
+India,2008,1275
+India,2007,1350
+India,2006,1275
+India,2005,1238
+India,2004,1202
+India,2003,1167
+India,2002,1133
+India,2001,1067
+India,2000,975
+India,1999,925
+India,1998,900
+India,1997,839
+India,1996,838
+India,1995,837
+India,1994,835
+India,1993,833.33
+India,1992,917
+India,1991,916.67
+India,1990,903
+Thailand,2019,1456
+Thailand,2018,1400
+Thailand,2017,1375
+Thailand,2016,1350
+Thailand,2015,1300
+Thailand,2014,1250
+Thailand,2013,1200
+Thailand,2012,1130
+Thailand,2011,1100
+Thailand,2010,775
+Thailand,2009,700
+Thailand,2008,600
+Thailand,2007,550
+Thailand,2006,500
+Thailand,2005,500
+Thailand,2004,500
+Thailand,2003,500
+Thailand,2002,500
+Thailand,2001,500
+Thailand,2000,500
+Thailand,1999,433
+Thailand,1998,433
+Thailand,1997,390
+Thailand,1996,333
+Thailand,1995,417
+Thailand,1994,283
+Thailand,1993,250
+Thailand,1992,233
+Thailand,1991,220
+Thailand,1990,188
+Turkey,2019,1301.74
+Turkey,2018,1249.45
+Turkey,2017,1196.1
+Turkey,2016,1130.66
+Turkey,2015,1186.36
+Turkey,2014,929.4
+Turkey,2013,789
+Turkey,2012,681
+Turkey,2011,633
+Turkey,2010,610
+Turkey,2009,521
+Turkey,2008,484
+Turkey,2007,516
+Turkey,2006,497
+Turkey,2005,464
+Turkey,2004,403
+Turkey,2003,367
+Turkey,2002,359
+Turkey,2001,290
+Turkey,2000,287
+Turkey,1999,265
+Turkey,1998,286
+Turkey,1997,236
+Turkey,1996,241
+Turkey,1995,199
+Turkey,1994,140
+Turkey,1993,219
+Turkey,1992,165
+Turkey,1991,163
+Turkey,1990,140
+Switzerland,2019,1112.89
+Switzerland,2018,1170.29
+Switzerland,2017,894
+Switzerland,2016,1066
+Switzerland,2015,1096
+Switzerland,2014,1028
+Switzerland,2013,1123
+Switzerland,2012,1047.08
+Switzerland,2011,1034.97
+Switzerland,2010,1011.81
+Switzerland,2009,965.55
+Switzerland,2008,1149.3
+Switzerland,2007,988.97
+Switzerland,2006,931.89
+Switzerland,2005,1099.33
+Switzerland,2004,722.02
+Switzerland,2003,852.43
+Switzerland,2002,821.03
+Switzerland,2001,816.09
+Switzerland,2000,826.93
+Switzerland,1999,862.71
+Switzerland,1998,810.53
+Switzerland,1997,712.43
+Switzerland,1996,922.09
+Switzerland,1995,935.13
+Switzerland,1994,944.38
+Switzerland,1993,868.79
+Switzerland,1992,994.89
+Switzerland,1991,948.89
+Switzerland,1990,907.48
+Norway,2019,749.91
+Norway,2018,734.17
+Norway,2017,781
+Norway,2016,782
+Norway,2015,788
+Norway,2014,729
+Norway,2013,763
+Norway,2012,723.37
+Norway,2011,785.13
+Norway,2010,745.7
+Norway,2009,715.24
+Norway,2008,714.56
+Norway,2007,771.42
+Norway,2006,721.27
+Norway,2005,743.42
+Norway,2004,708.94
+Norway,2003,683
+Norway,2002,692.25
+Norway,2001,709.94
+Norway,2000,657.2
+Norway,1999,785.17
+Norway,1998,702.47
+Norway,1997,675.02
+Norway,1996,713.3
+Norway,1995,657.14
+Norway,1994,799.61
+Norway,1993,690.23
+Norway,1992,736.46
+Norway,1991,757.65
+Norway,1990,726.66
+Tunisia,2019,554.8
+Tunisia,2018,532.8
+Tunisia,2017,546
+Tunisia,2016,465
+Tunisia,2015,458
+Tunisia,2014,460
+Tunisia,2013,429
+Tunisia,2012,421.14
+Tunisia,2011,415.37
+Tunisia,2010,301.47
+Tunisia,2009,288.73
+Tunisia,2008,317.49
+Tunisia,2007,253.4
+Tunisia,2006,200.4
+Tunisia,2005,189.8
+Tunisia,2004,262.98
+Tunisia,2003,119.66
+Tunisia,2002,234.17
+Tunisia,2001,231.78
+Tunisia,2000,191.74
+Tunisia,1999,185.41
+Tunisia,1998,147.42
+Tunisia,1997,164.62
+Tunisia,1996,143.65
+Tunisia,1995,136.78
+Tunisia,1994,137.27
+Tunisia,1993,100.62
+Tunisia,1992,110.58
+Tunisia,1991,90.2
+Tunisia,1990,101
+Guatemala,2019,401
+Guatemala,2018,395
+Guatemala,2017,395
+Guatemala,2016,390
+Guatemala,2015,390
+Guatemala,2014,380
+Guatemala,2013,370
+Guatemala,2012,360
+Guatemala,2011,350
+Guatemala,2010,340
+Guatemala,2009,320
+Guatemala,2008,335
+Guatemala,2007,300
+Guatemala,2006,300
+Guatemala,2005,300
+Guatemala,2004,300
+Guatemala,2003,300
+Guatemala,2002,300
+Guatemala,2001,300
+Guatemala,2000,300
+Guatemala,1999,300
+Guatemala,1998,300
+Guatemala,1997,300
+Guatemala,1996,300
+Guatemala,1995,310
+Guatemala,1994,310
+Guatemala,1993,310
+Guatemala,1992,300
+Guatemala,1991,300
+Guatemala,1990,300
+Dominican Republic,2019,392.33
+Dominican Republic,2018,390
+Dominican Republic,2017,390
+Dominican Republic,2016,390
+Dominican Republic,2015,388
+Dominican Republic,2014,388
+Dominican Republic,2013,383.33
+Dominican Republic,2012,378
+Dominican Republic,2011,378
+Dominican Republic,2010,378
+Dominican Republic,2009,378
+Dominican Republic,2008,378
+Dominican Republic,2007,378
+Dominican Republic,2006,378
+Dominican Republic,2005,378
+Dominican Republic,2004,378
+Dominican Republic,2003,340
+Dominican Republic,2002,340.2
+Dominican Republic,2001,340.2
+Dominican Republic,2000,325
+Dominican Republic,1999,325
+Dominican Republic,1998,325
+Dominican Republic,1997,325
+Dominican Republic,1996,325
+Dominican Republic,1995,350
+Dominican Republic,1994,330
+Dominican Republic,1993,320
+Dominican Republic,1992,320
+Dominican Republic,1991,320
+Dominican Republic,1990,320
+Honduras,2019,384.41
+Honduras,2018,375
+Honduras,2017,375
+Honduras,2016,370
+Honduras,2015,365
+Honduras,2014,355
+Honduras,2013,350
+Honduras,2012,345
+Honduras,2011,340
+Honduras,2010,335
+Honduras,2009,306.67
+Honduras,2008,268.33
+Honduras,2007,245
+Honduras,2006,230
+Honduras,2005,230
+Honduras,2004,230
+Honduras,2003,200
+Honduras,2002,200
+Honduras,2001,200
+Honduras,2000,230
+Honduras,1999,168
+Honduras,1998,138
+Honduras,1997,161
+Honduras,1996,167.92
+Honduras,1995,161
+Honduras,1994,253
+Honduras,1993,230
+Honduras,1992,240
+Honduras,1991,257.1
+Honduras,1990,188.15
