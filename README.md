@@ -1,2 +1,5 @@
 # coffee_dashboard
-dashboard tracking production, trade, climate risk, and prices of coffee
+dashboard tracking production, trade
+
+
+To Add: climate risk, and prices of coffee
